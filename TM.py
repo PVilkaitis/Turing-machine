@@ -1,5 +1,4 @@
-#C:\Users\pauli\Desktop\macupikcu\python\turing
-#python TM.py add_bin.tmprog.json increment_bin.tmprog.json increment_dec.tmprog.json running_ones.tmprog.json
+
 import sys
 import os
 import time
